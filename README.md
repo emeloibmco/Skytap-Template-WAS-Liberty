@@ -111,9 +111,9 @@ _10.	Por ultimo debemos verificar si el Installation Manager de IBM quedo correc
 
 #### Para la correcta instalación de WebSphere application Server Liberty en ubuntu debemos seguir los siguientes pasos:
 
-_1. Inicialmente debemos descargar el instalador del WAS Liberty, y lo podemos hacer desde el siguiente link:_
+_1. Inicialmente debemos descargar el instalador del WAS Liberty, y lo podemos hacer desde la pagina oficial de WAS Liberty o IBM:_
 ```
-https://ibm.ent.box.com/file/664615612602
+passport advantage
 ```
 _2.	Debemos abrir una terminal, la cual se puede abrir mediante el siguiente comando:_
 
