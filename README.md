@@ -71,7 +71,7 @@ _4.	Ahora debemos descomprimir el archivo que se descargo:_
 unzip agent.installer.linux.gtk.x86_64_1.8.2000.20150303_1526.zip
 ```
 
-_5. Ahora debemos ejecutar el comando de intalacion	:_
+_5. Ahora debemos ejecutar el comando de instalación	:_
 
 ```
 ./install
